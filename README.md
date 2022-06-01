@@ -13,5 +13,3 @@ Revisión del control de la versión desde el terminal
 4. Sistema operativo de 64 bits
 ## CARACTERISTICAS DEL PROGRAMA
 - Git 3.6.0
-- Phyton 
-- Pack
